@@ -1,0 +1,110 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Linker files
+*.ilk
+*.exp
+
+# Debugger Files
+*.pdb
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+*.so.*
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Build directories
+build/
+Build/
+build-*/
+cmake-build-*/
+out/
+
+# CMake generated files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+CTestTestfile.cmake
+Makefile
+build.ninja
+.ninja_deps
+.ninja_log
+install_manifest.txt
+compile_commands.json
+_deps/
+CPackConfig.cmake
+CPackSourceConfig.cmake
+
+# Qt generated files
+moc_*.cpp
+moc_*.h
+ui_*.h
+qrc_*.cpp
+*.moc
+.qtc_clangd/
+.qt/
+
+# CPack / installer outputs
+_CPack_Packages/
+dist/
+qt_bilibili_live-*.exe
+qt_bilibili_live-*.zip
+*.msi
+
+# vcpkg
+vcpkg_installed/
+
+# debug information files
+*.dwo
+
+# test output & cache
+Testing/
+.cache/
+
+# IDE
+.vs/
+.vscode/
+.idea/
+*.user
+*.autosave
+CMakeLists.txt.user
+*.pro.user*
+
+# OS
+Thumbs.db
+desktop.ini
+ehthumbs.db
+.DS_Store
+
+# Temporary files
+*.tmp
+*.log
+*.bak
+*.swp
+*~

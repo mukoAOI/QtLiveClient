@@ -1,0 +1,5 @@
+Bilibili Multi-Live Viewer
+
+Copyright (c) 2026 bench
+
+This software is provided for personal use.
